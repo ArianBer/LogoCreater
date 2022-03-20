@@ -14,8 +14,6 @@ import { ToastContainer } from "react-toastify";
 //Styles
 import "./App.scss";
 import "react-toastify/dist/ReactToastify.css";
-import "tailwindcss/tailwind.css";
-// import "../dist/output.css";
 
 const config = {
   autoClose: 5000,

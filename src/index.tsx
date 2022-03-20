@@ -2,10 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router } from "react-router-dom";
 import * as serviceWorker from "./serviceWorker";
-/****
- * * IMPORTANT NOTE: Do not change _main.scss_ import order.
- * It needs to be imported before main App component
- ****/
 import "./styles/main.scss";
 import "./index.css";
 import App from "./App";
